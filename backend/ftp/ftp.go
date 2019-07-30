@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jlaffaye/ftp"
+	"github.com/druidsbane/ftp"
 	"github.com/pkg/errors"
 	"github.com/rclone/rclone/fs"
 	"github.com/rclone/rclone/fs/config/configmap"
